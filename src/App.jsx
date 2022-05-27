@@ -38,8 +38,7 @@ animate();
 export default function App() {
   return (
     <div>
-      <h1>Hello React Three.js</h1>
-      <Base/>
+      <Base />
     </div>
   );
 }
